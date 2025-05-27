@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hi, how are you?",
+    "timestamp": "2025-05-26 04:23:02"
+  },
+  {
+    "role": "assistant",
+    "content": "hello, how you doing?",
+    "timestamp": "2025-05-26 04:23:03"
+  },
+  {
+    "role": "user",
+    "content": "my name is ellie. who are you?",
+    "timestamp": "2025-05-26 04:23:17"
+  },
+  {
+    "role": "assistant",
+    "content": "I understand. Could you tell me more about that?",
+    "timestamp": "2025-05-26 04:23:18"
+  },
+  {
+    "role": "user",
+    "content": "what's your name?",
+    "timestamp": "2025-05-26 04:23:31"
+  },
+  {
+    "role": "assistant",
+    "content": "Human, what is your main?",
+    "timestamp": "2025-05-26 04:23:32"
+  },
+  {
+    "role": "user",
+    "content": "SELECY * FROM",
+    "timestamp": "2025-05-26 04:23:49"
+  },
+  {
+    "role": "assistant",
+    "content": "We're working on it.",
+    "timestamp": "2025-05-26 04:23:50"
+  }
+]
